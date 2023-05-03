@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharjeeyl
-- 👀 I’m interested in ...
+- 👀 I’m interested in Developing Web Applications using react , tailwind css , Bootstrap
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Web Development , Machine Learning Projects
 - 📫 How to reach me ...
