@@ -19,12 +19,12 @@ Here are some of my notable projects:
 - 💻 **AI Tool Website for Shirt Customization**: A web development project for creating custom shirt designs.
 - 🌟 **Portfolio Development**: Building a personal portfolio website to showcase my work and expertise.
 
-You can find more about these projects and others on my [LinkedIn](https://www.linkedin.com/in/muhammad-sharjeel-javed/).
+You can find more about these projects and others on my [LinkedIn](https://www.linkedin.com/in/sharjeeyl/).
 
 ## Connect with Me
 Let's collaborate and explore the possibilities together! You can connect with me on:
 - 📧 Email: Sharjeeljaved95@gmail.com
-- 💼 LinkedIn: [Muhammad Sharjeel Javed](https://www.linkedin.com/in/muhammad-sharjeel-javed/)
+- 💼 LinkedIn: [Muhammad Sharjeel Javed](https://www.linkedin.com/in/sharjeeyl/)
 
 Feel free to reach out if you share similar interests or want to discuss AI, forex trading, web development, or any other exciting tech topics. I'm always eager to connect with like-minded professionals.
 
