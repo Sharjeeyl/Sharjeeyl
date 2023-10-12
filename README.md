@@ -1,6 +1,6 @@
-# Hello, fellow AI enthusiasts! 👋
+# Muhammad Sharjeel Javed 🏹
 
-I'm Muhammad Sharjeel Javed, a dedicated Artificial Intelligence student with a strong focus on machine learning, forex trading, and web development. Welcome to my GitHub profile, where I share my work and insights into the dynamic world of technology.
+Hi! I'm Muhammad Sharjeel Javed, a dedicated Artificial Intelligence student with a strong focus on machine learning, forex trading, and web development. Welcome to my GitHub profile, where I share my work and insights into the dynamic world of technology.
 
 ## About Me
 - 🎓 Currently pursuing a Bachelor's degree in Artificial Intelligence at "The Islamia University of Bahawalpur."
