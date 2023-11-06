@@ -6,7 +6,7 @@ Hi! I'm Muhammad Sharjeel Javed, a dedicated Artificial Intelligence student wit
 - 🎓 Currently pursuing a Bachelor's degree in Artificial Intelligence at "The Islamia University of Bahawalpur."
 - 🔬 Passionate about machine learning, forex trading, and web development.
 - 🚀 Committed to advancing AI technology and applying it to real-world scenarios.
-
+[![An image of @sharjeeyl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharjeeyl)](https://holopin.io/@sharjeeyl)
 ## Interests
 My primary interests include:
 - 🤖 Machine Learning: Exploring the potential of AI to enhance decision-making and automate processes.
