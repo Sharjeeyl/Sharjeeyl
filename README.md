@@ -4,7 +4,7 @@
 <img align = "right" alt = "lazy Sherry coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBreDJqdXd1OTB2MTMwcDg1aDZlNXRuYjEycWdycTZucG9ramNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
 
 ###
-- 🌱 I’m currently learning Artificial Intelligence **NLP , Computer vision**
+- 🌱 I’m currently learning Generative AI **NLP , Computer vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharjeeyl](https://github.com/Sharjeeyl)
 
@@ -25,6 +25,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">🔥  Skills :</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -43,6 +44,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">🔥  Social :</h3>
  <p align="left">
 <a href="https://twitter.com/sharjeeljaved95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeeljaved95" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
@@ -65,7 +67,3 @@
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/sharjeeyl/sharjeeyl/output/snake.svg" alt="Snake animation" />
-
-###
