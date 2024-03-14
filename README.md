@@ -66,3 +66,6 @@
 
 
 ###
+<img src="https://raw.githubusercontent.com/sharjeeyl/sharjeeyl/output/snake.svg" alt="Snake animation" />
+
+###
