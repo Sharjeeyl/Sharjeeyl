@@ -13,7 +13,7 @@
 - 📫 How to reach me **sharjeeljaved95@gmail.com**
 
 - ⚡ Fun fact **I am lazy ambitious Guy**
-- 
+  
 - <div align="left">
   <h3 align="left">🔥  Social :</h3>
  <p align="left">
